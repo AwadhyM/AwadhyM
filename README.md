@@ -7,7 +7,7 @@ I enjoy learning more about Computer Science and bettering my skill set.
 On my Github profile you will find some hobby projects that I am building to imrpove and consolidate my understanding of C++, as well as any other technologies that I am curious about.
 
 - 📫 How to reach me: https://www.linkedin.com/in/awadhy-mohammed-13502219a/
-- 💬 Ask me about: Degree Apprenticeships and working in STEM
+- 💬 Ask me about: Degree Apprenticeships and working in Tech
 
 <!--
 **AwadhyM/AwadhyM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
